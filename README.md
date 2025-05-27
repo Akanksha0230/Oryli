@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed:
 
 - Anaconda or Miniconda
 - Python 3.11
-
+- create env file contains API_KEY from GROQ
 ### **Setup Instructions:**
 
 1. Create a Conda Environment:
