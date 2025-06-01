@@ -69,4 +69,3 @@ def format_response(response):
         return formatted_response
 
     return response
-
