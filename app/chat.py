@@ -44,4 +44,5 @@ class ChatManager:
         return ai_response
     
 
+
     
