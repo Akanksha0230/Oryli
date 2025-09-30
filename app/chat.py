@@ -42,3 +42,4 @@ class ChatManager:
         self.add_message("assistant", ai_response)
 
         return ai_response
+
